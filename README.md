@@ -11,4 +11,5 @@ Ecofy is a UI/UX design project developed as part of the User Interface Experien
 ## 🛠️ Tech Stack & Tools
 - Figma (Prototyping & Wireframing)
 
-
+## 🚀 How to View Project
+You can view the interactive UI prototype directly on Figma via the [Figma Prototype Link](https://www.figma.com/proto/fhzYTRhv7JFQKdhzPMEnf4/Ecofy-Prototype?node-id=1-3&p=f&t=8JTjopFZhHKvs8Fl-8&scaling=scale-down&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A3&hide-ui=1) (Optimized for desktop and mobile responsive view).
